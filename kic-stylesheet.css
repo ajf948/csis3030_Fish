@@ -29,7 +29,14 @@ a:hover { border-bottom: 1px solid #7CCAB1; color: #7CCAB1; }
 	border-top: 5px solid #006F4A;
 	padding: 43px 0;
 	}	
-#header h1, 
+#header h1{ 	
+	margin: 0;
+	color: #fff;
+	font-size: 3em;
+	font-weight: bold;
+	cursor: default;
+	}	
+
 #header h2 { 	
 	margin: 0;
 	color: #fff;
@@ -103,3 +110,23 @@ a:hover { border-bottom: 1px solid #7CCAB1; color: #7CCAB1; }
 	
 #footer a { text-decoration: none; color: #7CCAB1; border-bottom: 1px solid #7CCAB1; }
 #footer a:hover { border-bottom: 1px solid #fff; color: #fff; }
+
+
+input[type="submit"]{
+  width: 80px;
+  background: #737373;
+  color: #fff;
+  font-family: tahoma, serif;
+  height: 30px;
+  border-radius: 3px;
+  border: 1p solid #999;
+}
+
+
+
+
+
+
+
+
+

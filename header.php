@@ -19,4 +19,5 @@
 		</div>
 		<ul id="nav">
 				<li><a href="category_list.php" title="shop">Shop</a></li>
+				<li><a href="cart_list.php" title="shop">cart</a></li>
 		</ul>
